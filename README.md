@@ -1,6 +1,6 @@
 # Facial-Expression-Recognition-with-Keras-Coursera
 
-Step 1: Make all the neccessary installations like Tensorflow, Keras, OpenCV, Flask, Etc.
+Step 1: Make all the neccessary installations like Tensorflow, Keras, OpenCV, Flask, Numpy,Etc.
 
 Step 2: Execute the main.py file.
 
